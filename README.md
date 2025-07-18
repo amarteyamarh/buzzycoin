@@ -4,15 +4,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Beecoins</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <script src="https://unpkg.com/framer-motion/dist/framer-motion.umd.js"></script>
 </head>
 <body class="min-h-screen bg-yellow-100 text-gray-800 font-sans">
 
   <!-- Hero Section -->
   <section class="text-center py-20 bg-yellow-300 shadow-md">
-    <h1 class="text-5xl font-bold mb-4">🐝 Welcome to Beecoins</h1>
+    <h1 class="text-5xl font-bold mb-4 animate-bounce">🐝 Welcome to Beecoins</h1>
     <p class="text-xl">Buzz into the Future of Finance!</p>
     <div class="mt-6">
-      <a href="#" class="inline-block text-lg px-6 py-3 bg-black text-yellow-200 hover:bg-yellow-800 rounded-2xl">
+      <a
+        href="https://pump.fun/HZHXpD6yaEtXJVwGbSGqK9uuWJY9FSfV2bshERSCpump"
+        class="inline-block text-lg px-6 py-3 bg-black text-yellow-200 hover:bg-yellow-800 rounded-2xl shadow-lg transition transform hover:scale-110 active:scale-95"
+      >
         Buy Beecoins
       </a>
     </div>
@@ -43,6 +47,14 @@
         <p>2% per transaction</p>
       </div>
     </div>
+    <div class="mt-10 text-center">
+      <a
+        href="https://pump.fun/HZHXpD6yaEtXJVwGbSGqK9uuWJY9FSfV2bshERSCpump"
+        class="inline-block text-lg px-6 py-3 bg-yellow-500 text-white hover:bg-yellow-600 rounded-full shadow-lg transition transform hover:scale-110 active:scale-95"
+      >
+        🐝 Purchase Beecoins Now
+      </a>
+    </div>
   </section>
 
   <!-- Roadmap -->
@@ -61,8 +73,8 @@
     <h2 class="text-3xl font-bold mb-4">🐝 Join the Hive</h2>
     <p class="mb-4">Follow us and be part of the swarm.</p>
     <div class="flex justify-center gap-6 mb-8">
-      <a href="#" class="text-xl text-blue-600">Twitter</a>
-      <a href="https://t.me/beecoin111" class="text-xl text-purple-600">Telegram</a>
+      <a href="https://twitter.com/Bee501324624731" class="text-xl text-blue-600">Twitter</a>
+      <a href="https://t.me/Beecoinsz" class="text-xl text-purple-600">Telegram</a>
       <a href="#" class="text-xl text-pink-600">Instagram</a>
     </div>
     <h3 class="text-2xl font-semibold mb-2">🧠 FAQ</h3>
